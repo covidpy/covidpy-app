@@ -1,16 +1,13 @@
-# app_covid19_paraguay
+# covid-app
+Aplicación Móvil del ciudadano para el seguimiento de pacientes COVID-19
 
-A new Flutter project.
+## Tecnologías
+Flutter
+Firebase
+Dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ¿Cómo comenzar para ayudar?
+* Revisa el archivo de wishlist, desafíos y todo https://github.com/covidpy/covidpy-documentacion/blob/master/TODO-WishList-Desafios.md
+* Revisa los issues de GitHub en cada uno de los proyectos
+* Revisa el canal de Telegram https://t.me/covid19mitic
+* Revisa los pasos de cómo contribuir en GitHub, un comienzo puede ser https://guides.github.com/activities/hello-world/#pr
