@@ -1,10 +1,16 @@
 # covid-app
 Aplicación Móvil del ciudadano para el seguimiento de pacientes COVID-19
 
-## Tecnologías
+### Tecnologías
+
+Las tecnologías utilizadas por el proyecto son:
+
+```
 Flutter
-Firebase
 Dart
+Firebase
+```
+
 
 ## ¿Cómo comenzar para ayudar?
 * Revisa el archivo de wishlist, desafíos y todo https://github.com/covidpy/covidpy-documentacion/blob/master/TODO-WishList-Desafios.md
