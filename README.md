@@ -1,5 +1,5 @@
 # covid-app
-Aplicación Móvil del ciudadano para el seguimiento de pacientes COVID-19
+Aplicación Móvil (android/iOS) del ciudadano para el seguimiento de pacientes COVID-19
 
 ### Tecnologías
 
